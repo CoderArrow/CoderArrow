@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderArrow
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on someone
+- 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me, dont
 
 <!---
